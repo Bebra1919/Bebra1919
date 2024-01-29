@@ -1,7 +1,6 @@
 Здорова Братва!
 ![github-contribution-grid-snake](https://github.com/UdalovDA/UdalovDA/assets/144095529/68d7470c-8cef-4a75-920f-6dea2238dbed)
 <!--
-![github-contribution-grid-snake](https://github.com/UdalovDA/UdalovDA/assets/144095529/68d7470c-8cef-4a75-920f-6dea2238dbed)
 **Bebra1919/Bebra1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
